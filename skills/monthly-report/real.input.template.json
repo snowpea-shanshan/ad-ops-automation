@@ -1,0 +1,40 @@
+{
+  "property_name": "",
+  "month": "YYYY-MM",
+  "adebis": {
+    "total_cv": 0,
+    "cv_mom_diff": 0,
+    "total_cpa": 0,
+    "cpa_mom_diff": 0,
+    "notes": ""
+  },
+  "media": [
+    {
+      "name": "Google検索",
+      "role": "",
+      "cv": 0,
+      "cv_mom_diff": 0,
+      "cpa": 0,
+      "cpa_mom_diff": 0,
+      "notes": ""
+    },
+    {
+      "name": "Yahoo検索",
+      "role": "",
+      "cv": 0,
+      "cv_mom_diff": 0,
+      "cpa": 0,
+      "cpa_mom_diff": 0,
+      "notes": ""
+    },
+    {
+      "name": "ディスプレイ（P-MAX/Meta等）",
+      "role": "",
+      "cv": 0,
+      "cv_mom_diff": 0,
+      "cpa": 0,
+      "cpa_mom_diff": 0,
+      "notes": ""
+    }
+  ]
+}
