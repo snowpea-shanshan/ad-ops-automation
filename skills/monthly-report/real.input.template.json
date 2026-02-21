@@ -1,40 +1,48 @@
 {
-  "property_name": "",
-  "month": "YYYY-MM",
+  "report_meta": {
+    "property_name": "",
+    "month": ""
+  },
+
   "adebis": {
     "total_cv": 0,
     "cv_mom_diff": 0,
     "total_cpa": 0,
     "cpa_mom_diff": 0,
-    "notes": ""
+
+    "request_cv": null,
+    "request_cv_mom_diff": null,
+
+    "visit_cv": null,
+    "visit_cv_mom_diff": null
   },
-  "media": [
+
+  "media_summary": [
     {
       "name": "Google検索",
-      "role": "",
-      "cv": 0,
-      "cv_mom_diff": 0,
-      "cpa": 0,
-      "cpa_mom_diff": 0,
-      "notes": ""
-    },
-    {
-      "name": "Yahoo検索",
-      "role": "",
-      "cv": 0,
-      "cv_mom_diff": 0,
-      "cpa": 0,
-      "cpa_mom_diff": 0,
-      "notes": ""
-    },
-    {
-      "name": "ディスプレイ（P-MAX/Meta等）",
-      "role": "",
-      "cv": 0,
-      "cv_mom_diff": 0,
-      "cpa": 0,
-      "cpa_mom_diff": 0,
-      "notes": ""
+      "role": "獲得主軸",
+
+      "media_cv": 0,
+      "media_cv_mom_diff": 0,
+      "media_cpa": 0,
+      "media_cpa_mom_diff": 0,
+
+      "adebis_cv": null,
+      "adebis_cv_mom_diff": null,
+      "adebis_cpa": null,
+      "adebis_cpa_mom_diff": null,
+
+      "cv_type_breakdown": {
+        "request_cv": null,
+        "visit_cv": null
+      },
+
+      "keyword_insight": {
+        "brand_ratio": null,
+        "non_brand_ratio": null,
+        "top_query": null,
+        "costly_query": null
+      }
     }
   ]
 }
