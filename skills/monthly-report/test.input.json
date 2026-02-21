@@ -1,0 +1,39 @@
+{
+  "property_name": "テスト物件",
+  "month": "2026-01",
+  "adebis": {
+    "total_cv": 29,
+    "total_cpa": 33472,
+    "cv_mom_diff": -2,
+    "cpa_mom_diff": 12987
+  },
+  "media": [
+    {
+      "name": "Meta",
+      "role": "獲得主軸",
+      "cv": 21,
+      "cpa": 23195,
+      "cv_mom_diff": 0,
+      "cpa_mom_diff": 7681,
+      "notes": "ASCが媒体CVの最大獲得源"
+    },
+    {
+      "name": "P-MAX",
+      "role": "接触拡張",
+      "cv": 13,
+      "cpa": 22471,
+      "cv_mom_diff": -3,
+      "cpa_mom_diff": 13271,
+      "notes": "前月からCV減少・CPA上昇"
+    },
+    {
+      "name": "YDA",
+      "role": "接触拡張",
+      "cv": 4,
+      "cpa": 31000,
+      "cv_mom_diff": 1,
+      "cpa_mom_diff": -2000,
+      "notes": "CVは増加、CPAは低下"
+    }
+  ]
+}
