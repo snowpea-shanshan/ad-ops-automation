@@ -1,0 +1,28 @@
+{
+  "property_name": "クレヴィア鶴見花月園",
+  "month": "2026-01",
+  "adebis": {
+    "total_cv": 30,
+    "cv_mom_diff": -9,
+    "total_cpa": 22743,
+    "cpa_mom_diff": 1523
+  },
+  "media": [
+    {
+      "name": "Google検索",
+      "role": "獲得主軸",
+      "cv": 24,
+      "cv_mom_diff": -8,
+      "cpa": 24354,
+      "cpa_mom_diff": 8122
+    },
+    {
+      "name": "Yahoo検索",
+      "role": "接触拡張",
+      "cv": 6,
+      "cv_mom_diff": -1,
+      "cpa": 16301,
+      "cpa_mom_diff": -27725
+    }
+  ]
+}
